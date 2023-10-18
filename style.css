@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://cdn.discordapp.com/attachments/1156510321104666676/1163939928024035378/eQUATOR_the_provided_image_and_edit_it_to_make_it_appear_as_if__15103bac-40c0-4302-b236-61ffc623475a.png?ex=65416687&is=652ef187&hm=27cb57c0ad476375e930bcf9496e59086305c1767b953935f10fae75277f094e&") no-repeat center;
+    background: url("public/myimagescifi4.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
